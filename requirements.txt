@@ -1,0 +1,18 @@
+# Casting Defect Detection — Deep Learning MLOps pipeline
+# Python 3.11  |  CPU-only (no GPU required)
+torch==2.8.0
+torchvision==0.23.0
+mlflow==3.1.4
+fastapi==0.128.8
+uvicorn==0.39.0
+python-multipart==0.0.20
+evidently==0.7.20
+scikit-learn==1.6.1
+pillow==11.3.0
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pytest==8.4.2
+# notebooks
+jupyter
+nbconvert
